@@ -6,5 +6,10 @@ public class MyClass {
         this.b = b;
         this.d = d;
     }
-
+    MyClass(int a,int b)
+    {
+        this.a = a;
+        this.b = b;
+    }
+    
 }
