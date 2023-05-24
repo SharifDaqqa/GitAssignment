@@ -1,9 +1,10 @@
 public class MyClass {
-    int a,b;
-    MyClass(int a,int b)
+    int a,b,c;
+    MyClass(int a,int b, int c)
     {
         this.a = a;
         this.b = b;
+        this.c = c;
     }
 
 }
