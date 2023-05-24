@@ -12,5 +12,10 @@ public class MyClass {
         this.a = a;
         this.b = b;
     }
-    
+
+    MyClass(int a)
+    {
+        this.a = a;
+    }
+
 }
