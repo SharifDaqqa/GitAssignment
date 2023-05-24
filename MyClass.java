@@ -1,5 +1,10 @@
 public class MyClass {
-  int a;
+    int b;
+    MyClass(int a)
+    {
+        b = a;
+    }
   MyClass(){
   }
+
 }
